@@ -1,0 +1,28 @@
+#container {
+    width:100%;
+    text-align: center;
+}
+
+#left_block {
+    /* float: left; */
+    width: 20%;
+    display: inline-block;
+}
+
+#central_block {
+    display: inline-block;
+    margin:0 auto;
+    width: 58%;
+    display: inline-block;
+}
+
+#right_block {
+   /* float:right; */
+    width: 20%;
+    display: inline-block;
+}
+
+.main_div {
+    border-style: solid;
+    border-color: red;
+}
